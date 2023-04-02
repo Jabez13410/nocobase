@@ -577,5 +577,9 @@ export default {
   "Format": "フォーマット",
   "Error message": "エラーメッセージ",
   "Record picker": "レコードピッカー",
-  "Search and select collection": "Search and select collection",
+  "Search and select collection": "コレクションを検索して選択",
+  "This is likely a NocoBase internals bug. Please open an issue at <0>here</0>": "これはNocoBaseの内部バグの可能性があります。 <0>こちら</0>で問題を報告してください",
+  "Render Failed": "レンダリングに失敗しました",
+  "Feedback": "フィードバック",
+  "Try again": "再試行",
 }
